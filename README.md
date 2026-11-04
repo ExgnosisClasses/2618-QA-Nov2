@@ -15,3 +15,5 @@ The repository will be available until December 4, 2026
 [vms](https://innovation-in-software.github.io/davison1102-class/)
 
 page code = iis-4bw4-pbfq
+
+[github stuff](https://docs.google.com/spreadsheets/d/1CeWKnfTriiI0XFqUJItyppY6MsZMdKSfUTYlwGmXFZo/edit?usp=sharing)
